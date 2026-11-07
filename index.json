@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.eda",
+  "versions": [
+    {
+      "commit": "6341cc8d54755b6591ff13549133a3383d077d52",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:05:45.482723+00:00"
+    }
+  ]
+}
